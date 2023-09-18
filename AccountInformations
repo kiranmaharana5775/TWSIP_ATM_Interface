@@ -1,0 +1,13 @@
+Hii..
+
+Sir/ Madam,
+    For your testing purpose I provide the account numbers and pin records here.
+
+    Account1(Account Number:"123456", Pin:"1234", Balance: 10000.0));
+
+    Account2(Account Number:"987654", Pin:"4321", Balance: 500.0));
+
+   You can also able to check in ATMInterface java file by the In this code,
+   we're using a HashMap called accounts to store account information.
+   Each account is identified by its account number (e.g., "123456" or "987654") as the key,
+   and the Account object (with account number, PIN, and balance) as the value.
